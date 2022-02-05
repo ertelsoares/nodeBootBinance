@@ -1,0 +1,24 @@
+{
+  "name": "nodeBootBinance",
+  "version": "1.0.0",
+  "description": "Creating a boot that connects and consumes binance api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ertelsoares/nodeBootBinance.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ertelsoares/nodeBootBinance/issues"
+  },
+  "homepage": "https://github.com/ertelsoares/nodeBootBinance#readme",
+  "dependencies": {
+    "axios": "^0.25.0",
+    "dotenv": "^16.0.0"
+  }
+}
